@@ -1,3 +1,6 @@
+<img src="https://github.com/Atifue/Atifue/blob/main/dc-comics-batman-logo__26106.jpg" alt="Batman Logo" width="500" height="500">
+
+
 # Hi there, I'm Atif Mahmood 👋
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&link=https://linkedin.com/in/atifmahmood1)](https://linkedin.com/in/atifmahmood1)
