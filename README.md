@@ -4,8 +4,8 @@
 
 ### 🚧 About Me:
 Senior Computer Science student @ Queens College (CUNY).
-Currently a research intern at **Columbia University**, working on **secure Wi-Fi onboarding using EAP-TLS and DPP**.  
-A part of the **Google Software Engineering Program (G-SWEP)** and **CUNY Tech Prep Program**.
+Former research at **Columbia University**, worked on **secure Wi-Fi onboarding using EAP-TLS and DPP**.  
+Current apart of the **Google Software Engineering Program (G-SWEP)** and **CUNY Tech Prep Program**.
 
 ---
 
