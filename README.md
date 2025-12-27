@@ -3,6 +3,7 @@
 ---
 
 ### 🚧 About Me:
+Incoming SWE Intern @ Capital One
  Computer Science student @ Queens College (CUNY).
 Former research at **Columbia University**, worked on **secure Wi-Fi onboarding using EAP-TLS and DPP**.  
 
